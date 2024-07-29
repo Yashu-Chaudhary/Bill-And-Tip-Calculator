@@ -1,16 +1,9 @@
-# bill_calculator
+Bill And Tip Calculator 
 
-A new Flutter project.
+https://github.com/user-attachments/assets/eb2ffe49-88c7-41b4-b463-f11134f9cc16
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This help you to divide the Tota food money into the per person amount.
+It also have a feature of tip.
+You will have results on with change in price, person or in tip percentage.
+Thank You
